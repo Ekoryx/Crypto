@@ -1,0 +1,2 @@
+holaaaa si ves este es un mensaje confidencial de prueba para el sistema de encriptacion AES.
+Si puedes leer esto, el proceso de cifrado y descifrado ha funcionado correctamente y que nada exploto durante el proceso xd.
